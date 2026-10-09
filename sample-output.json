@@ -1,0 +1,88 @@
+[
+  {
+    "input": "ritter-sport.de",
+    "website": "https://www.ritter-sport.com/de",
+    "domain": "ritter-sport.com",
+    "companyName": "RITTER SPORT",
+    "emails": [
+      "contact@example.com"
+    ],
+    "phones": [
+      "+1 555 0100"
+    ],
+    "linkedin": "https://www.linkedin.com/company/ritter-sport",
+    "facebook": "https://www.facebook.com/RitterSportDeutschland",
+    "instagram": "https://www.instagram.com/rittersport",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/user/Rittersport",
+    "tiktok": "https://www.tiktok.com/@rittersport_de",
+    "pinterest": "https://www.pinterest.com/rittersportde",
+    "github": null,
+    "xing": null,
+    "contactPages": [
+      "https://www.ritter-sport.com/de/kontakt",
+      "https://www.ritter-sport.com/de/impressum",
+      "https://www.ritter-sport.com/de/ueber-uns"
+    ],
+    "pagesCrawled": 4,
+    "scrapedAt": "2026-10-09T19:40:49Z"
+  },
+  {
+    "input": "haribo.com",
+    "website": "https://www.haribo.com/en-us",
+    "domain": "haribo.com",
+    "companyName": "HARIBO",
+    "emails": [],
+    "phones": [
+      "+1 555 0100"
+    ],
+    "linkedin": "https://www.linkedin.com/company/haribo-of-america-inc-",
+    "facebook": "https://www.facebook.com/HariboUSA",
+    "instagram": "https://www.instagram.com/haribousa",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/channel/UCDRCXCrqXDfEHW8dRUNxEPg",
+    "tiktok": null,
+    "pinterest": null,
+    "github": null,
+    "xing": null,
+    "contactPages": [
+      "https://www.haribo.com/en-us/imprint",
+      "https://www.haribo.com/en-us/about-us/contact",
+      "https://www.haribo.com/en-us/about-us/faq",
+      "https://www.haribo.com/en-us/about-us/history"
+    ],
+    "pagesCrawled": 5,
+    "scrapedAt": "2026-10-09T19:40:49Z"
+  },
+  {
+    "input": "otto.de",
+    "website": "https://www.otto.de/",
+    "domain": "otto.de",
+    "companyName": "OTTO",
+    "emails": [
+      "contact@example.com",
+      "contact@example.com",
+      "contact@example.com",
+      "contact@example.com",
+      "contact@example.com",
+      "contact@example.com"
+    ],
+    "phones": [
+      "+1 555 0100"
+    ],
+    "linkedin": "https://www.linkedin.com/company/otto",
+    "facebook": "https://www.facebook.com/Otto",
+    "instagram": "https://www.instagram.com/otto_de",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/user/OTTO",
+    "tiktok": null,
+    "pinterest": null,
+    "github": null,
+    "xing": null,
+    "contactPages": [
+      "https://www.otto.de/service/impressum/"
+    ],
+    "pagesCrawled": 2,
+    "scrapedAt": "2026-10-09T19:40:49Z"
+  }
+]
